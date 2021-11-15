@@ -5,4 +5,4 @@ I am currently the owner and lead programmer of the 3D-Coat (3D-modeling package
 
 I have a great family, really pretty wife, 4 kids, 3 of them like programming, another one - chess)
 The ring of my interests - traveling, 3d-printing, 3d-graphics, machine learning, automating the house, aquarium, physics, math, psychology, mind-programming, polyamory.
-<div style="display: table"><img style="width:14%" src="LikeABoss.jpg" /> <img style="width:38%" src="MosesMountain.jpg" /> <img style="width:16%" src="OnTheTop.jpg" /> <img style="width:21%" src="book.png" /></div>
+<div style="display: table"><img style="width:15%" src="LikeABoss.jpg" /> <img style="width:40%" src="MosesMountain.jpg" /> <img style="width:17%" src="OnTheTop.jpg" /> <img style="width:22%" src="book.png" /></div>
